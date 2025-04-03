@@ -4,7 +4,7 @@
 #include <cstdint>
 #include <vector>
 
-// modify this class declaration to take a template for the type of the data it holds
+// all of your function definitions should be in this file now
 
 class Matrix {
 public:
